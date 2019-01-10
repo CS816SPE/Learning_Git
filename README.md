@@ -3,3 +3,4 @@
 Sign your name in the list below
 
 - [Rajula Vineet Reddy](http://github.com/rajula96reddy/) - IMT2014045
+- [Pranith Reddy](https://github.com/pranith563/) - IMT2015025
