@@ -14,3 +14,4 @@ Sign your name in the list below
 - [Shivang Arora](http://github.com/arorashivang97/) - IMT2015039
 - [Bharath N](http://github.com/bharathgane/) - IMT2015527
 - [Vasu Bansal](http://github.com/progvasu/) - MT2018130
+- [Jyoti kaundal](https://github.com/jyotikaundal6/project1) - MT2018046
