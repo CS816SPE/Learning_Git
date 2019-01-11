@@ -13,3 +13,4 @@ Sign your name in the list below
 - Shiloni - IMT2015031
 - [Shivang Arora](http://github.com/arorashivang97/) - IMT2015039
 - [Bharath N](http://github.com/bharathgane/) - IMT2015527
+- [Vasu Bansal](http://github.com/progvasu/) - MT2018130
