@@ -15,3 +15,4 @@ Sign your name in the list below
 - [Bharath N](http://github.com/bharathgane/) - IMT2015527
 - [Vasu Bansal](http://github.com/progvasu/) - MT2018130
 - [Jyoti kaundal](https://github.com/jyotikaundal6/project1) - MT2018046
+- [Pranith Reddy](https://github.com/pranith563/) - IMT2015025
