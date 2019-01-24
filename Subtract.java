@@ -1,9 +1,9 @@
 public class Subtract
 {
 	float a,b,res;
-	Subtract(float ,float y)
+	Subtract(float x,float y)
 	{
-		a=x;
+		a=x
 		b=y;
 	}
 	public void getRes()
