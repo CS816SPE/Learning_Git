@@ -4,7 +4,7 @@ public class Subtract
 	Subtract(float x,float y)
 	{
 		a=x;
-		b=y;
+		b=y
 	}
 	public void getRes()
 	{
