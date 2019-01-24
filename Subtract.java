@@ -1,10 +1,10 @@
 public class Subtract
 {
 	float a,b,res;
-	Subtract(float x,float y)
+	Subtract(float ,float y)
 	{
 		a=x;
-		b=y
+		b=y;
 	}
 	public void getRes()
 	{
