@@ -1,7 +1,7 @@
 public class Subtract
 {
 	float a,b,res;
-	Multiply(float x,float y)
+	Subtract(float x,float y)
 	{
 		a=x;
 		b=y;
