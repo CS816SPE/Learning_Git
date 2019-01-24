@@ -3,7 +3,7 @@ import java,util.Scanner;
 		public static vid main(String args[]){
 			float a, b, res;
 			char choice, ch;
-			Scanner scan = new Scanner(System.in);
+			Scanner scan = new Scanner(System.in)
 		
 			do {
 				System.out.print("1.ADD TWO Numbers\n");
